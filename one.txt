@@ -1,2 +1,1 @@
-This is a txt file.
-Commit by one.
+Commit by 2.
